@@ -1,6 +1,5 @@
-# 2025-Case-Studies-in-Data-Analysis-Competition-Study-2
+# 2025-Case-Studies-in-Data-Analysis-Competition: Study-2
 https://ssc.ca/en/case-study/analysis-historical-environmental-data-collected-ocean-gliders-gulf-saint-lawrence
-
 
 
 # Papers 
